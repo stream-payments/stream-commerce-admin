@@ -1,0 +1,5 @@
+[template.environment]
+  STREAM_PAY_BACKEND_URL="URL of your StreamPay Server"
+
+[build]
+  publish = "public/"
