@@ -51,13 +51,13 @@ NoteCurrentUser.args = {
 
 export const NoteOtherUser = Template.bind({})
 NoteOtherUser.args = {
-  icon: <Avatar user={{ email: "oli@medusajs.com" }} />,
-  title: "oli@medusajs.com",
+  icon: <Avatar user={{ email: "demo@streampay.shop" }} />,
+  title: "demo@@streampay.shop",
   topNode: eventActions,
   time: new Date(),
   children: (
     <div className="bg-grey-5 rounded-2xl px-base py-base">
-      Added discount code: "OLI_DISCOUNT"
+      Added discount code: "STREAM_DISCOUNT"
     </div>
   ),
 }
@@ -126,7 +126,7 @@ OrderPlaced.args = {
   iconColor: EventIconColor.GREEN,
   time: new Date(),
   title: "Order Placed",
-  topNode: <div className="inter-small-semibold">4,756.50 kr.</div>,
+  topNode: <div className="inter-small-semibold">156.50 EUR.</div>,
 }
 
 export const ReturnRequested = Template.bind({})

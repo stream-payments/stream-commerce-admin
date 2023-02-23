@@ -33,7 +33,7 @@
     font-size: 12px !important;
     font-family: "Inter" !important;
     color: #111827 !important;
-    caret-color: #7C3AED !important;
+    caret-color: #091970 !important;
 }
 
 .emoji-picker-react input.emoji-search::placeholder {
@@ -43,7 +43,7 @@
 }
 
 .emoji-picker-react .emoji-categories button.icn-smileys_people {
- background-image: url("../svg/happy.svg") !important;
+    background-image: url("../svg/happy.svg") !important;
 }
 
 .emoji-picker-react .emoji-categories button.icn-animals_nature {
@@ -97,8 +97,10 @@
 
 .emoji-scroll-wrapper {
     overflow-x: hidden !important;
-    -ms-overflow-style: none; /* IE and Edge */
-    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
 }
 
 .emoji-scroll-wrapper::-webkit-scrollbar {

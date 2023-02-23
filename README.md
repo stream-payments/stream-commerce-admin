@@ -36,8 +36,8 @@ Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) 
 
 1. **Clone this repository**
    ```
-   git clone https://github.com/stream-payments/admin
-   cd admin
+   git clone https://github.com/stream-payments/streampay-ecommerce-admin
+   cd streampay-ecommerce-admin
    ```
 2. **Install dependencies**
    ```
@@ -61,7 +61,7 @@ admin@medusa-test.com // supersecret
 
 ### Features
 
-You can learn about all of the e-commerce features that StreamPay commerce provides [in our documentation](https://docs.streampay.shop/introduction#features).
+You can learn about all of the e-commerce features that StreamPay marketplace provides [in our documentation](https://docs.streampay.shop/introduction#features).
 
 ## Contributions
 
