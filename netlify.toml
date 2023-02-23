@@ -1,5 +1,5 @@
 [template.environment]
-  STREAM_PAY_BACKEND_URL="URL of your StreamPay Server"
+  STREAM_PAY_BACKEND_URL=streampay-marketplace-admin.netlify.app
 
 [build]
   publish = "public/"
