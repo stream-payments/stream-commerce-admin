@@ -1,5 +1,5 @@
 [template.environment]
-  STREAM_PAY_BACKEND_URL=streampay-marketplace-admin.netlify.app
+  MEDUSA_BACKEND_URL="URL of your Medusa Server"
 
 [build]
   publish = "public/"
