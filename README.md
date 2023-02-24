@@ -11,7 +11,7 @@ A decentralized eCommerce Platform
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="StreaPay eCommerce Platfrom is released under the MIT license." />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="StreamPay eCommerce Platform is released under the MIT license." />
   </a>
   <a href="https://circleci.com/gh/medusajs/medusa">
     <img src="https://circleci.com/gh/medusajs/medusa.svg?style=shield" alt="Current CircleCI build status." />
