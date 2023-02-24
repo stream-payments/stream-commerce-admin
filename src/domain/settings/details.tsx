@@ -86,26 +86,26 @@ const AccountDetails = () => {
             className="mt-base"
             label="Store name"
             {...register("name")}
-            placeholder="Medusa Store"
+            placeholder="StreamPay Store"
           />
           <h6 className="mt-2xlarge inter-base-semibold">Advanced settings</h6>
           <Input
             className="mt-base"
             label="Swap link template"
             {...register("swap_link_template")}
-            placeholder="https://streampay.shop/swap={swap_id}"
+            placeholder="https://streampayment.app/swap={swap_id}"
           />
           <Input
             className="mt-base"
             label="Draft order link template"
             {...register("payment_link_template")}
-            placeholder="https://streampay.shop/payment={payment_id}"
+            placeholder="https://streampayment.app/payment={payment_id}"
           />
           <Input
             className="mt-base"
             label="Invite link template"
             {...register("invite_link_template")}
-            placeholder="https://streampay.shop/invite?token={invite_token}"
+            placeholder="https://admin.streampayment.app/invite?token={invite_token}"
           />
         </BodyCard>
       </div>

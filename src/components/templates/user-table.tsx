@@ -116,7 +116,7 @@ const UserTable: React.FC<UserTableProps> = ({
                 .then(() => {
                   notification(
                     "Success",
-                    "Invitiation link has been resent",
+                    "Invitation link has been resent",
                     "success"
                   )
                 })

@@ -179,8 +179,8 @@ Table.SortingHeadCell = React.forwardRef<
           {children}
           <SortingIcon
             size={16}
-            ascendingColor={sortDirection === "ASC" ? "#111827" : undefined}
-            descendingColor={sortDirection === "DESC" ? "#111827" : undefined}
+            ascendingColor={sortDirection === "ASC" ? "#091970" : undefined}
+            descendingColor={sortDirection === "DESC" ? "#091970" : undefined}
           />
         </div>
       </th>

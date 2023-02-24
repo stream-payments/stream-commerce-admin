@@ -22,12 +22,12 @@ const TimePickertemplate = (args) => (
 
 export const DatePickerExample = DatePickertemplate.bind({})
 DatePicker.args = {
-  date: new Date("01/20/2023"),
+  date: new Date("01/20/2022"),
   onChange: (date) => {},
 }
 
 export const TimePickerExample = TimePickertemplate.bind({})
 DatePicker.args = {
-  date: new Date("01/20/2023"),
+  date: new Date("01/20/2022"),
   onChange: (date) => {},
 }

@@ -23,5 +23,5 @@ HasValue.args = {
   label: "Code",
   required: true,
   placeholder: "STREAMPAY15",
-  value: "SUMMER2023",
+  value: "SUMMER2014",
 }

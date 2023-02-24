@@ -188,7 +188,7 @@ const EditGeneral: React.FC<EditGeneralProps> = ({ discount, onClose }) => {
             <TextArea
               label="Description"
               required
-              placeholder="Summer Sale 2023"
+              placeholder="Summer Sale 2022"
               rows={1}
               {...register("description", {
                 required: "Description is required",

@@ -200,7 +200,7 @@ const InvitePage = () => {
             <MedusaVice className="mb-3xlarge" />
             <div className="flex flex-col items-center max-w-3xl text-center">
               <h1 className="inter-3xlarge-semibold text-grey-0 mb-base">
-                You have been invited to join the Stream team
+                You have been invited to join the team
               </h1>
               <p className="inter-xlarge-regular text-grey-50">
                 You can now join the StreamPay Store team. Sign up below and get

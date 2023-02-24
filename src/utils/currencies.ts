@@ -1084,4 +1084,13 @@ export const currencies: CurrenciesType = {
     code: "ZWL",
     name_plural: "Zimbabwean Dollar",
   },
+  EUROE: {
+    symbol: "EUROe",
+    name: "EUROe",
+    symbol_native: "EUROe",
+    decimal_digits: 0,
+    rounding: 0,
+    code: "EUROE",
+    name_plural: "Digital Euro Currency",
+  },
 }

@@ -57,9 +57,9 @@ const providerDescriptors: { [providerKey: string]: Option } = {
     label: "iDEAL via Adyen",
     value: "ideal-adyen",
   },
-  "streampay": {
-  label: "StreamPay",
-  value: "stream-pay",
+  "stream-pay": {
+    label: "StreamPay",
+    value: "stream-pay",
   },
   manual: {
     label: "Manual",

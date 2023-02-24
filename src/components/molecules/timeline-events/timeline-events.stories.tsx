@@ -38,8 +38,8 @@ const eventActions = (
 
 export const NoteCurrentUser = Template.bind({})
 NoteCurrentUser.args = {
-  icon: <Avatar user={{ email: "contact@streamprotocol.org" }} />,
-  title: "contact@streamprotocol.org",
+  icon: <Avatar user={{ email: "avatar@streamprotocol.org" }} />,
+  title: "avatar@streamprotocol.org",
   topNode: eventActions,
   time: new Date(),
   children: (
@@ -51,13 +51,13 @@ NoteCurrentUser.args = {
 
 export const NoteOtherUser = Template.bind({})
 NoteOtherUser.args = {
-  icon: <Avatar user={{ email: "demo@streampay.shop" }} />,
-  title: "demo@@streampay.shop",
+  icon: <Avatar user={{ email: "oli@medusajs.com" }} />,
+  title: "oli@medusajs.com",
   topNode: eventActions,
   time: new Date(),
   children: (
     <div className="bg-grey-5 rounded-2xl px-base py-base">
-      Added discount code: "STREAM_DISCOUNT"
+      Added discount code: "OLI_DISCOUNT"
     </div>
   ),
 }
@@ -72,7 +72,7 @@ MailNotice.args = {
       <div className="text-grey-40 mr-2xsmall">
         <ArrowRightIcon size={16} />
       </div>
-      <span>contact@streamprotocol.org</span>
+      <span>avatar@streamprotocol.org</span>
     </div>
   ),
   topNode: eventActions,
@@ -126,7 +126,7 @@ OrderPlaced.args = {
   iconColor: EventIconColor.GREEN,
   time: new Date(),
   title: "Order Placed",
-  topNode: <div className="inter-small-semibold">156.50 EUR.</div>,
+  topNode: <div className="inter-small-semibold">4,756.50 kr.</div>,
 }
 
 export const ReturnRequested = Template.bind({})

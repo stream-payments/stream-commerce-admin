@@ -145,7 +145,7 @@ export const RegionTaxForm = ({ region }: RegionTaxFormProps) => {
           />
           <IconTooltip
             content={
-              "When checked taxes will be applied to gift cards on checkout. In some countries tax regulations require that taxes are applied to gift cards on purchase."
+              "When checked taxes will be applied to gift cards on checkout. In some contries tax regulations require that taxes are applied to gift cards on purchase."
             }
           />
         </div>

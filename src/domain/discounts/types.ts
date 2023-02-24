@@ -38,7 +38,7 @@ export type CreateConditionProps = {
   ids: string[]
 }
 
-export type CondtionMapItem = {
+export type ConditionMapItem = {
   id?: string
   operator: DiscountConditionOperator
   type: DiscountConditionType
@@ -47,11 +47,11 @@ export type CondtionMapItem = {
 }
 
 export type ConditionMap = {
-  products: CondtionMapItem
-  product_collections: CondtionMapItem
-  product_tags: CondtionMapItem
-  customer_groups: CondtionMapItem
-  product_types: CondtionMapItem
+  products: ConditionMapItem
+  product_collections: ConditionMapItem
+  product_tags: ConditionMapItem
+  customer_groups: ConditionMapItem
+  product_types: ConditionMapItem
 }
 
 export enum AllocationType {

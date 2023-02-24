@@ -29,7 +29,7 @@ const UsageInsights = ({ user }: Props) => {
             )}
           </div>
           <p className="inter-base-regular text-grey-50">
-            Share usage insights and help us improve StreamPay
+            Share usage insights and help us improve Medusa
           </p>
         </div>
         <Button

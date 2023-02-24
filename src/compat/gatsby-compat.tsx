@@ -60,8 +60,8 @@ export const useStaticQuery = () => ({
   site: {
     siteMetadata: {
       title: `Admin`,
-      description: `The decentralized e-commerce software.`,
-      author: `@streampayjs`,
+      description: `A decentralized e-commerce software.`,
+      author: `StreamPay`,
     },
   },
 })

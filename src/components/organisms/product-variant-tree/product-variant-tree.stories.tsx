@@ -33,7 +33,7 @@ const testProduct: Pick<Product, "title" | "id" | "thumbnail"> & {
     {
       id: "variant_01FY6FS3VWFWNQF8WSP130F3TX",
       title: "WHITE / S",
-      sku: "STREAM-PAY-S",
+      sku: "STREAMPAY-S",
       prices: [
         {
           id: "ma_01FY6FS3VZ7C0NHWMYA243KQXV",
@@ -50,7 +50,7 @@ const testProduct: Pick<Product, "title" | "id" | "thumbnail"> & {
     {
       id: "variant_01FY6FS3WAJJRHAW5J901Y8YM9",
       title: "WHITE / M",
-      sku: "STREAM-PAY-M",
+      sku: "STREAMPAY-M",
       prices: [
         {
           id: "ma_01FY6FS3WD3928VCK53ZQ3NSD7",
@@ -62,7 +62,7 @@ const testProduct: Pick<Product, "title" | "id" | "thumbnail"> & {
     {
       id: "variant_01FY6FS3WT9EN0GVGWDPCBTWZR",
       title: "WHITE / L",
-      sku: "STREAM-PAY-L",
+      sku: "STREAMPAY-L",
       prices: [
         {
           id: "ma_01FY6FS3WYWP598C6SNX5AM6WY",
@@ -84,7 +84,7 @@ const testProduct: Pick<Product, "title" | "id" | "thumbnail"> & {
     {
       id: "variant_01FY6FS3XBQ64A4TBX0N8NGZZK",
       title: "WHITE / XL",
-      sku: "STREAM-PAY-XL",
+      sku: "STREAMPAY-XL",
       prices: [],
     },
   ],

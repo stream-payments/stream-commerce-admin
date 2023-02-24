@@ -14,11 +14,11 @@ type MailDialogProps = {
 const MailDialog = ({ open, onClose }: MailDialogProps) => {
   const [subject, setSubject] = useState("")
   const [body, setBody] = useState("")
-  const [link, setLink] = useState("mailto:support@medusajs.com")
+  const [link, setLink] = useState("mailto:support@streamprotocol.org")
 
   React.useEffect(() => {
     setLink(
-      `mailto:support@medusajs.com?subject=${encodeURI(
+      `mailto:support@streamprotocol.org?subject=${encodeURI(
         subject
       )}&body=${encodeURI(body)}`
     )
@@ -55,7 +55,7 @@ const MailDialog = ({ open, onClose }: MailDialogProps) => {
           </div>
           <div className="flex flex-col items-center gap-y-base">
             <a
-              href="https://discord.gg/bAwXnfEq5n"
+              href="https://discord.gg/vXgRRz4m"
               target="_blank"
               rel="noopener noreferrer"
               className="group cursor-pointer w-full"

@@ -69,7 +69,7 @@ function AddProducts() {
         Add Products
       </Button>
       {/*{showModal && (*/}
-      {/*  <SalesChannelAvaliableProductsModal*/}
+      {/*  <SalesChannelAvailableProductsModal*/}
       {/*    handleClose={() => setShowModal(false)}*/}
       {/*  />*/}
       {/*)}*/}

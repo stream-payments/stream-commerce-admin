@@ -21,7 +21,7 @@ export const Required = Template.bind({})
 Required.args = {
   label: "Email",
   required: true,
-  placeholder: "lebron@james.com",
+  placeholder: "invite@emailaddress.com",
 }
 
 export const WithInfoTooltip = Template.bind({})

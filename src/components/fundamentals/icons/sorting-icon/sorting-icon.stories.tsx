@@ -27,12 +27,12 @@ export const DescendingIcon = Template.bind({})
 DescendingIcon.args = {
   size: "24",
   color: "#a0a0a0",
-  descendingColor: "#111827",
+  descendingColor: "#091970",
 }
 
 export const AscendingIcon = Template.bind({})
 AscendingIcon.args = {
   size: "24",
   color: "#a0a0a0",
-  ascendingColor: "#111827",
+  ascendingColor: "#091970",
 }

@@ -9,7 +9,7 @@ export default {
 
 const GiftCardRes = {
   id: "prod_01FSM2R78R63VKXFAG3G7F52CD",
-  title: "SteamPay Gift Card",
+  title: "StreamPay Gift Card",
   subtitle: null,
   description:
     "For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The StreamPay Gift Card is available in either digital or hard-copy format.",
@@ -26,7 +26,7 @@ const GiftCardRes = {
       prices: [
         {
           id: "ma_01FSM2R7GSAW9XRZDZ24YNYRAT",
-          currency_code: "strm",
+          currency_code: "bhd",
           amount: 100000,
           variant_id: "variant_01FSM2R7EVZR9MRNWBC5WB14RT",
         },

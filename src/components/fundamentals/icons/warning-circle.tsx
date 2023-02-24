@@ -3,7 +3,7 @@ import IconProps from "./types/icon-type"
 
 const WarningCircle: FC<IconProps> = (props) => {
   const { fill, size, ...attributes } = props
-  const line = fill || "#111827"
+  const line = fill || "#091970"
 
   return (
     <svg

@@ -20,7 +20,7 @@ const PersonalInformation = () => {
         <div className="flex flex-col gap-y-2xsmall">
           <h1 className="inter-xlarge-semibold">Personal information</h1>
           <p className="inter-base-regular text-grey-50">
-            Manage your StreamPay user profile
+            Manage your StreamPay profile
           </p>
         </div>
         <div className="flex flex-col">

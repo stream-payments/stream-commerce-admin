@@ -33,8 +33,8 @@ export const useCurrencyColumns = (): Column<Currency>[] => {
             <span>Name</span>
             <SortingIcon
               className="text-grey-40"
-              ascendingColor={isSorted && !isSortedDesc ? "#111827" : undefined}
-              descendingColor={isSortedDesc ? "#111827" : undefined}
+              ascendingColor={isSorted && !isSortedDesc ? "#091970" : undefined}
+              descendingColor={isSortedDesc ? "#091970" : undefined}
               size={16}
             />
           </div>

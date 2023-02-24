@@ -32,8 +32,8 @@
     width: 100% !important;
     font-size: 12px !important;
     font-family: "Inter" !important;
-    color: #111827 !important;
-    caret-color: #091970 !important;
+    color: #091970 !important;
+    caret-color: #0868E5 !important;
 }
 
 .emoji-picker-react input.emoji-search::placeholder {

@@ -60,7 +60,7 @@ const InviteModal: React.FC<InviteModalProps> = ({ handleClose }) => {
             <div className="flex flex-col gap-y-base">
               <InputField
                 label="Email"
-                placeholder="lebron@james.com"
+                placeholder="invite@emailaddress.com"
                 required
                 {...register("user", { required: true })}
               />

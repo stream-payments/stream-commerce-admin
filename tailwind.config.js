@@ -23,7 +23,7 @@ module.exports = {
                     60: "#4B5563",
                     70: "#374151",
                     80: "#1F2937",
-                    90: "#111827",
+                    90: "#091970",
                 },
                 violet: {
                     5: "#F5F3FF",
@@ -32,7 +32,7 @@ module.exports = {
                     30: "#C4B5FD",
                     40: "#A78BFA",
                     50: "#8B5CF6",
-                    60: "#091970",
+                    60: "#0868E5",
                     70: "#6D28D9",
                     80: "#5B21B6",
                     90: "#4C1D95",
@@ -251,11 +251,11 @@ module.exports = {
             boxShadow: {
                 cta: "0px 0px 0px 4px rgba(124, 58, 237, 0.1)",
                 dropdown: "0px 2px 16px rgba(0, 0, 0, 0.08);",
-                input: "0px 0px 0px 4px #8B5CF61A",
+                input: "0px 0px 0px 4px #0968E5",
                 searchModal: "0px 2px 64px 16px rgba(17, 24, 39, 0.08)",
                 toaster: "0px 2px 16px rgba(17, 24, 39, 0.08)",
                 border: "0px 0px 0px 1px #E5E7EB",
-                "focus-border": "0px 0px 0px 1px #091970",
+                "focus-border": "0px 0px 0px 1px #0868E5",
                 "error-border": "0px 0px 0px 1px #F43F5E",
             },
             keyframes: {

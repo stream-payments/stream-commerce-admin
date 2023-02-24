@@ -28,5 +28,5 @@ export const Default = Template.bind({})
 Default.args = {
   denominations: [],
   onSubmit: console.log,
-  currencyCodes: ["USD", "EUR", "EUROE", "GBP", "DKK", "NOK", "SEK"],
+  currencyCodes: ["USD", "EUR", "GBP", "DKK", "NOK", "SEK"],
 }

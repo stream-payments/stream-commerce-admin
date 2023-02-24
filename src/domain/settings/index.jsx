@@ -56,22 +56,22 @@ const SettingsIndex = () => {
         to={`/a/settings/return-reasons`}
       />
       <SettingsCard
-        heading={"The Team"}
+        heading={"The Stream Team"}
         description={"Manage users of your StreamPay Store"}
         icon={<UsersIcon />}
         to={`/a/settings/team`}
       />
       <SettingsCard
         heading={"Personal Information"}
-        description={"Manage your StreamPay user profile"}
+        description={"Manage your StreamPay profile"}
         icon={<HappyIcon />}
         to={`/a/settings/personal-information`}
       />
       <SettingsCard
-        heading={"hello@streampay.io"}
+        heading={"contact@streamprotocol.org"}
         description={"Can’t find the answers you’re looking for?"}
         icon={<MailIcon />}
-        externalLink={"mailto: hello@streampay.io"}
+        externalLink={"mailto: contact@streamprotocol.org"}
       />
       <SettingsCard
         heading={"Tax Settings"}

@@ -16,7 +16,7 @@ export const Component = Template.bind({})
 Component.args = {
   children: (
     <div className="flex flex-col w-1/2 space-y-4">
-      <Input label="Handle" name="handle" value="stream-pay-t-shirt" />
+      <Input label="Handle" name="handle" value="medusa-t-shirt" />
       <Input label="Subtitle" name="subtitle" placeholder="Add a subtitle" />
     </div>
   ),

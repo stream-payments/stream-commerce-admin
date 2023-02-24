@@ -60,7 +60,7 @@ const ResetTokenCard: React.FC<ResetTokenCardProps> = ({ goBack }) => {
         {!mailSent ? (
           <>
             <SigninInput
-              placeholder="lebron@james.com..."
+              placeholder="invite@emailaddress.com..."
               {...register('email', { required: true })}
               className="mb-0 mt-xlarge" />
             {unrecognizedEmail && (

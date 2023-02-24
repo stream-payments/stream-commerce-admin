@@ -35,10 +35,10 @@ const LoginCard: React.FC<LoginCardProps> = ({ toResetPassword }) => {
     <form onSubmit={handleSubmit(onSubmit)}>
       <div className="flex flex-col items-center">
         <span className="inter-2xlarge-semibold mt-4 text-grey-90">
-          Welcome StreamPay!
+          Welcome!
         </span>
         <span className="inter-base-regular text-grey-50 mt-2">
-          A Decentralized e-Commerce Platform
+          StreamPay e-Commerce Platform
         </span>
         <span className="inter-base-regular text-grey-50 mb-xlarge">
           Log in to your account below

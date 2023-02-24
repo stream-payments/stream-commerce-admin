@@ -51,7 +51,7 @@ const ShippingOptionCard = ({ option }: Props) => {
               <p className="inter-small-regular text-grey-50">
                 {option.price_type === ShippingOptionPriceType.FLAT_RATE
                   ? "Flat Rate"
-                  : "Calcualted"}
+                  : "Calculated"}
                 :{" "}
                 {stringDisplayPrice({
                   amount: option.amount,

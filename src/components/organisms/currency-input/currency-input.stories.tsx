@@ -33,7 +33,7 @@ export const WithAmount = TemplateWithAmount.bind({})
 WithAmount.args = {
   currencyArgs: {
     currentCurrency: "usd",
-    currencyCodes: ["usd", "eur", "euroe", "krw"],
+    currencyCodes: ["usd", "eur", "krw"],
     size: "small",
   },
   amountArgs: {

@@ -18,7 +18,7 @@ User.args = {
   user: {
     first_name: "John",
     last_name: "Doe",
-    email: "your@gmail.com",
+    email: "avatar@streamprotocol.org",
   },
 }
 

@@ -33,7 +33,7 @@ CTA.args = {
 export const GiftCard = Template.bind({})
 GiftCard.args = {
   cardArgs: {
-    title: "Tekla Gift Card",
+    title: "StreamPay Gift Card",
     thumbnail:
       "https://i.imgur.com/b4XFxGu.png",
     actions: [
@@ -56,13 +56,13 @@ GiftCard.args = {
     ],
   },
   text:
-    "For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The Tekla Gift Card is available in either digital or hard-copy format.",
+    "For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The StreamPay Gift Card is available in either digital or hard-copy format.",
 }
 
 export const GiftCardWithLongText = Template.bind({})
 GiftCardWithLongText.args = {
   cardArgs: {
-    title: "Tekla Gift Card",
+    title: "StreamPay Gift Card",
     thumbnail:
       "https://i.imgur.com/b4XFxGu.png",
     actions: [
@@ -85,5 +85,5 @@ GiftCardWithLongText.args = {
     ],
   },
   text:
-    "For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The Tekla Gift Card is available in either digital or hard-copy format. For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The Tekla Gift Card is available in either digital or hard-copy format. For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The Tekla Gift Card is available in either digital or hard-copy format.",
+    "For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The StreamPay Gift Card is available in either digital or hard-copy format. For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The StreamPay Gift Card is available in either digital or hard-copy format. For the one partial to blank canvases, spontaneity, chance encounters and plot twists. The StreamPay Gift Card is available in either digital or hard-copy format.",
 }

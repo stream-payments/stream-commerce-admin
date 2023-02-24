@@ -4,8 +4,8 @@ import { Helmet } from "react-helmet"
 const site = {
   siteMetadata: {
     title: `Admin`,
-    description: `The decentralized e-commerce software.`,
-    author: `@streampayjs`,
+    description: `The best ecommerce software.`,
+    author: `@medusajs`,
   },
 }
 
