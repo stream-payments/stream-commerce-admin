@@ -1,4 +1,4 @@
-[template.environment]
+[environment]
   MEDUSA_BACKEND_URL="https://stream-commerce-admin.herokuapp.com/"
 
 [build]
