@@ -1,0 +1,5 @@
+[template.environment]
+  MEDUSA_BACKEND_URL="URL of your StreamPay e-commerce Server"
+
+[build]
+  publish = "public/"
