@@ -1,5 +1,6 @@
 [template.environment]
-  MEDUSA_BACKEND_URL="https://stream-ecommerce-admin.herokuapp.com/"
+  MEDUSA_BACKEND_URL="https://stream-ecommerce-admin.herokuapp.com"
+  MEDUSA_DATABASE_URL="https://b2b-marketplace-backend.herokuapp.com"
 
 [build]
   publish = "public/"
