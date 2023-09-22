@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://streampay-marketplace-admin.netlify.app/login>
-    <img alt="StreamPay" src="https://i.imgur.com/3jUHsfu.png" width="100" />
+    <img alt="StreamPay" src="https://i.imgur.com/dRSxCtW.png" width="100" />
   </a>
 </p>
 <h1 align="center">
-  StreamPay Admin
+  StreamCommerce Admin
 </h1>
 <p align="center">
-A decentralized eCommerce Platform
+A Decentralized e-Commerce Platform
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="StreaPay eCommerce Platfrom is released under the MIT license." />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Stream e-Commerce Platform is released under the MIT license." />
   </a>
   <a href="https://circleci.com/gh/medusajs/medusa">
     <img src="https://circleci.com/gh/medusajs/medusa.svg?style=shield" alt="Current CircleCI build status." />
